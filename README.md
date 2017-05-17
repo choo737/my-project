@@ -1,15 +1,22 @@
 initial commit
+Topic: git
 git init
 git add .
 git commit -m "initial commit"
 
-add npm package.json
+Topic: add npm package.json
 npm init -y
 
-add babel
+Topic: add babel
 npm install --save babel-core
 npm install --save babel-preset-latest
 npm install --save babel-preset-react
+add .babelrc file
 
-add webpack
+Topic: add webpack
 npm install --save webpack babel-loader
+Add these files
+src/main.js, webpack.config.js
+
+Topic: to compile
+npm run compile
