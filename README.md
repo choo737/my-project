@@ -1,3 +1,38 @@
+My Project
+---
+ 
+Welcome.
+ 
+ 
+ 
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
+ 
+ 
+ 
+Setup
+---
+ 
+```
+npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
+
+
 initial commit
 Topic: git
 git init
@@ -20,3 +55,19 @@ src/main.js, webpack.config.js
 
 Topic: to compile
 npm run compile
+
+Topic: setup Express
+npm install --save express webpack-dev-middleware
+npm start
+
+Topic: React
+npm install --save react react-dom
+
+More to add
+CSS processor(s)
+HMR / Auto Reload
+Routing
+Flux/Redux/MobX
+Server-side rendering
+Database
+AJAX / Networking
