@@ -10,3 +10,6 @@ add babel
 npm install --save babel-core
 npm install --save babel-preset-latest
 npm install --save babel-preset-react
+
+add webpack
+npm install --save webpack babel-loader
